@@ -30,3 +30,6 @@ spatial correlations of my own components.
 
 cc_for_nifti_yeo_comp_v2.0.sh  --> This is an example of how I calculated the spatial 
 correlations between my data and Yeo et al's 2011 cortical networks.
+
+Network_Interconnectivity_Heatmaps_FDR_0.05_v.8.R --> This is my first ever attempt as using R. I was trying
+to import data so that I could create a heatmap. I tried to comment it as I went but it's not optimal.

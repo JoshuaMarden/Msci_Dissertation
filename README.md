@@ -1,4 +1,4 @@
-# Msci_Dissertation
+# MSci_Dissertation
 A collection of code and data to demonstrate what I have learnt and how I have acquired my data.
 
 These scripts were not intended for personal use, they simply demonstrate some of what I have done as
